@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelkothari6191&label=Profile%20views&color=0e75b6&style=flat" alt="neelkothari6191" /> </p>
 
-- 💬 Ask me about **Computer Vision, Deep Learning, ML, Flutter**
+- 💬 Ask me about **AI, Deep Learning, Data Science**
 
 - 📫 How to reach me **neelkothariak@gmail.com**
 
